@@ -1,1 +1,1 @@
-export { default, GithubPickerProps } from "react-color/lib/components/github/Github";
+export { default, GithubPickerDefaultStyles, GithubPickerHideTriangleStyles, GithubPickerTriangleStyles, GithubPickerStyles, GithubPickerProps } from "react-color/lib/components/github/Github";

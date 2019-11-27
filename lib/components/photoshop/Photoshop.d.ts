@@ -1,1 +1,1 @@
-export { default, PhotoshopPickerProps } from "react-color/lib/components/photoshop/Photoshop";
+export { default, PhotoshopPickerDefaultStyles, PhotoshopPickerStyles, PhotoshopPickerProps } from "react-color/lib/components/photoshop/Photoshop";

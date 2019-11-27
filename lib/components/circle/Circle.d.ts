@@ -1,1 +1,1 @@
-export { default, CirclePickerProps } from "react-color/lib/components/circle/Circle";
+export { default, CirclePickerDefaultStyles, CirclePickerStyles, CirclePickerProps } from "react-color/lib/components/circle/Circle";

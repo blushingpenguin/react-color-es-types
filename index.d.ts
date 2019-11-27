@@ -1,4 +1,4 @@
-export { HSLColor, RGBColor, Color, ColorResult, ColorChangeHandler, ColorPickerProps, CustomPickerProps } from "react-color";
+export { HEXColor, HSLColor, RGBColor, HSVColor, Color, ColorState, RenderersProps, ColorChangeHandler } from "react-color";
 
 export { default as AlphaPicker, AlphaPickerProps } from "./lib/components/alpha/Alpha";
 export { default as BlockPicker, BlockPickerProps } from "./lib/components/block/Block";
@@ -17,4 +17,8 @@ export { default as SketchPicker, SketchPickerProps } from "./lib/components/ske
 export { default as SliderPicker, SliderPickerProps } from "./lib/components/slider/Slider";
 export { default as SwatchesPicker, SwatchesPickerProps } from "./lib/components/swatches/Swatches";
 export { default as TwitterPicker, TwitterPickerProps } from "./lib/components/twitter/Twitter";
-export { default as CustomPicker, InjectedColorProps } from "./lib/components/common/ColorWrap";
+export {
+    default as CustomPicker,
+    CustomPickerInjectedProps,
+    CustomPickerProps
+} from "./lib/components/common/ColorWrap";

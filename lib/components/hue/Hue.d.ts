@@ -1,1 +1,1 @@
-export { default, HuePickerProps } from "react-color/lib/components/hue/Hue";
+export { default, HuePickerDefaultStyle, HuePickerStyle, HuePickerProps } from "react-color/lib/components/hue/Hue";

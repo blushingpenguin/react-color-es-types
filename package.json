@@ -7,6 +7,6 @@
   "types": "./index.d.ts",
   "author": "Mark Weaver <mark@blushingpenguin.com>",
   "dependencies": {
-    "@types/react-color": "^2.17.3"
+    "@types/react-color": "^2.17.2"
   }
 }
