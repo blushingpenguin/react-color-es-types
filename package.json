@@ -1,0 +1,12 @@
+{
+  "name": "@types/react-color-es",
+  "version": "2.17.3",
+  "description": "Typescript definitions for react-color-es",
+  "license": "MIT",
+  "main": "",
+  "types": "./index.d.ts",
+  "author": "Mark Weaver <mark@blushingpenguin.com>",
+  "dependencies": {
+    "@types/react-color": "^2.17.3"
+  }
+}
